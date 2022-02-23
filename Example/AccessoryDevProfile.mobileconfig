@@ -15,17 +15,11 @@
 				<dict>
 					<key>DefaultsData</key>
 					<dict>
-						<key>AccessoryDeveloperEnabled</key>
-						<true/>
-						<key>IDSDiagnosticsEnabled</key>
-						<true/>
-						<key>VCDiagnosticsEnabled</key>
-						<true/>
-						<key>iMessageDiagnosticsEnabled</key>
-						<true/>
+						<key>FrequentLocationsDeveloperEnabled</key>
+                                                <false/>
 					</dict>
 					<key>DefaultsDomainName</key>
-					<string>com.apple.Preferences</string>
+					<string>.GlobalPreferences</string>
 				</dict>
 			</array>
 			<key>PayloadIdentifier</key>
