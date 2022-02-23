@@ -15,18 +15,42 @@
 				<dict>
 					<key>DefaultsData</key>
 					<dict>
-						<key>AccessoryDeveloperEnabled</key>
-						<true/>
-						<key>IDSDiagnosticsEnabled</key>
-						<true/>
-						<key>VCDiagnosticsEnabled</key>
-						<true/>
-						<key>iMessageDiagnosticsEnabled</key>
-						<true/>
+						<key>SyncSIMPhonebook</key>
+                                                <false/>
+
+<key>CaptiveSettingsBySSID</key>
+<dict>
+</dict>
+
+<key>signature</key>
+<data></data>
+
+<key>WiFiCallingControlsAlliWLanServices</key>
+<false/>
+
 					</dict>
 					<key>DefaultsDomainName</key>
-					<string>com.apple.Preferences</string>
+					<string>com.apple.carrier</string>
 				</dict>
+<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>SyncSIMPhonebook</key>
+                                                <false/>
+
+<key>CaptiveSettingsBySSID</key>
+<dict>
+</dict>
+
+<key>signature</key>
+<data></data>
+
+<key>WiFiCallingControlsAlliWLanServices</key>
+<false/>
+
+					</dict>
+		
+				</dict> 
 			</array>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.defaults.managed.7D7386F6-EE10-4CBE-AAA0-54E495C2D2BA</string>
